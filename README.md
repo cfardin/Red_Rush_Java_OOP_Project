@@ -1,6 +1,7 @@
 # Red Rush 🚗💨
 
 **Red Rush** is a small Java Swing arcade game where you avoid oncoming cars and ambulances, collect points, and try to beat the high score. This project was for my OOP course. The Java OOP concepts is not so clean but it tought me a lot.
+![Recording 2025-12-16 131201](https://github.com/user-attachments/assets/77632493-df3c-46fe-8105-c0ddaca4923f)
 
 ---
 
